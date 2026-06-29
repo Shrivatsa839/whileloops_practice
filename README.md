@@ -41,7 +41,6 @@ This repository is part of my Python learning journey. The goal is to practice p
    ```
 
 ## 👨‍💻 Author
-Shrivatsa Khandare
 **Shrivatsa Khandare**
 
 GitHub: https://github.com/Shrivatsa839
